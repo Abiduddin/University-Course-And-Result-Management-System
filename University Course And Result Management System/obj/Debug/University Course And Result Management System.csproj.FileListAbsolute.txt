@@ -1,0 +1,55 @@
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\University Course And Result Management System.dll.config
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\University Course And Result Management System.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\University Course And Result Management System.pdb
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Antlr3.Runtime.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\EntityFramework.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\EntityFramework.SqlServer.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Google.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Web.Infrastructure.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Newtonsoft.Json.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Owin.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Helpers.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Mvc.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Optimization.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Razor.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.WebPages.Deployment.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.WebPages.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.WebPages.Razor.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\WebGrease.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Helpers.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Mvc.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Optimization.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.Razor.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.WebPages.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.WebPages.Deployment.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\System.Web.WebPages.Razor.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Newtonsoft.Json.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Antlr3.Runtime.pdb
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\EntityFramework.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\EntityFramework.SqlServer.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Google.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\obj\Debug\University Course And Result Management System.csprojResolveAssemblyReference.cache
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\obj\Debug\University Course And Result Management System.dll
+E:\Work Place\project\github\University Course And Result Management System\University Course And Result Management System\obj\Debug\University Course And Result Management System.pdb
